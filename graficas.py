@@ -375,7 +375,7 @@ function grafica7(){
       <br>
       <br>
 
-      <p><h2>Prediccion sobre el numero de casos de obesidad en Mexico hasta 2025</h2></p>
+      <p><h2>Prediccion sobre el numero de casos de obesidad en Mexico hasta 2025, aqui aplicamos una prediccion con la libreria "sklearn.neural_network", se estuvo entrenando datos sobre la cantidad de obesidad en mexico, para haci poder generar una prediccion a 5 años del aumento de obesidad en mexico</h2></p>
       <div id='graph7'>
         <div id="div7" style="display:none">
         <br>
